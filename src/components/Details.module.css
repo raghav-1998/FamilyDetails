@@ -1,0 +1,29 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .userInfo, .familyInfo {
+    margin-bottom: 20px;
+  }
+  
+  h2, h3, h4 {
+    color: #333;
+  }
+  
+  .familyMember {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .successMessage {
+    text-align: center;
+    margin-top: 20px;
+  }
